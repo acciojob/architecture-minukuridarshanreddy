@@ -1,1 +1,29 @@
 /*  your css code here. If applicable */
+*{
+	background-color: aqua;
+	width: 1100px;
+}
+table{
+	border: 1px solid black;
+}
+.img{
+	width: 60%;
+	height: 60%;
+}
+.img2{
+	width: 200px;
+}
+}
+#middle{
+	width: 600px;
+}
+tr{
+	text-align: center;
+}
+.column{
+	width: 200px;
+	text-align:left;
+}
+td{
+	border: 1px solid black;
+}
